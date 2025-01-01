@@ -1,0 +1,17 @@
+{
+  "app_title": "برنامج الاخبار",
+  "pickYourCategoryOfInterest": "اختر قائمتك المفضله",
+  "categories": "القائمه",
+  "settings": "الاعدادات",
+  "sports": "الرياضه",
+  "general": "اخبار عامه",
+  "health": "الصحه",
+  "business": "الاعمال",
+  "entertainment": "الترفيه",
+  "science": "العلم",
+  "english": "الانجليزيه",
+  "arabic": "العربيه",
+  "language": "اللغه",
+  "searchHint": "البحث"
+
+}
