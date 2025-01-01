@@ -1,5 +1,5 @@
 
-# **📰 NewsNest App**
+# **📰 News App**
 
 ### **My Latest Flutter Project with Route Academy**  
 "NewsNest App" is the culmination of creativity and learning, offering users a seamless and engaging news experience.  
@@ -40,4 +40,4 @@ Ensuring maintainability and efficiency through:
 
 ## **🔴 Figma Design**  
 Check out the Figma design of the app:  
-[**NewsNest Figma Design**](https://www.figma.com/design/48e1711YXW0PJRPkvzCDIy/News-App?m=auto&t=Qm7yRGOdr2Ctlm8p-1)  
+[**NewsApp Figma Design**](https://www.figma.com/design/48e1711YXW0PJRPkvzCDIy/News-App?m=auto&t=Qm7yRGOdr2Ctlm8p-1)  
