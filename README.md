@@ -1,4 +1,4 @@
-NewsNest App
+#NewsNest App
 
 "NewsNest App" is a comprehensive news application developed using Flutter. It was built as part of a collaborative project with Route Academy, showcasing creativity and innovation. The app provides a smooth user experience and a variety of features to keep users informed with the latest headlines.
 
