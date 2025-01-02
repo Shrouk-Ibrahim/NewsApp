@@ -1,13 +1,10 @@
 
 # **📰 News App**
+A collaborative News Application built in Flutter as part of a team project at Route Academy. The app includes essential task management features and integrates with Firebase for backend functionality.
 
-### **My Latest Flutter Project with Route Academy**  
-"NewsNest App" is the culmination of creativity and learning, offering users a seamless and engaging news experience.  
-
----
 
 ## **🔴 About the App**  
-**NewsNest App** provides a variety of features focusing on user experience, such as:  
+**News App** provides a variety of features focusing on user experience, such as:  
 
 - **Home Screen**: View all your news in one place.  
 - **Settings Mastery**: Customize the app by choosing between **Arabic** or **English** (currently in progress).  
